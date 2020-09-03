@@ -12,11 +12,11 @@ parser.add_argument('--file', type=str, help='Path to the image/video file')
 
 parser.add_argument('--download_model', type=bool, help='To download model', default=False)
 
-parser.add_argument("-p", "--prototxt", type=str, help="path to Caffe prototxt file", default='colorization_deploy_v2.prototxt')
+parser.add_argument("--prototxt", type=str, help="path to Caffe prototxt file", default='colorization_deploy_v2.prototxt')
 
-parser.add_argument("-m", "--model", type=str, help="path to Caffe pre-trained model", default='colorization_release_v2.caffemodel')
+parser.add_argument("--model", type=str, help="path to Caffe pre-trained model", default='colorization_release_v2.caffemodel')
 
-parser.add_argument("-c", "--points", type=str, help="path to cluster center points", default='pts_in_hull.npy')
+parser.add_argument("--points", type=str, help="path to cluster center points", default='pts_in_hull.npy')
 
 args = vars(parser.parse_args())
 
