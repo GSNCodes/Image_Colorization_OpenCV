@@ -37,5 +37,5 @@ Note:- The code looks for the model, prototxt and points file in the current dir
 * http://richzhang.github.io/colorization/  
 * [Colorful Image Colorization by Richard Zhang, Phillip Isola, Alexei A. Efros](https://arxiv.org/abs/1603.08511)
 
-Do let me know if you face any issues. I'll do my best to help you :)
+Do let me know if you face any issues. I'll do my best to help you :)  
 Happy Learning People ! Keep chasing your dreams ! ⭐️
