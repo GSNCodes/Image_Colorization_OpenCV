@@ -29,9 +29,8 @@ Note:- The code looks for the model, prototxt and points file in the current dir
 `python color.py --option camera`
 
 ## Sample Results
-```-----------Original Image -------------------------- Gray Image ----------------Colorized Image----------``` 
+```-----------Original Image ----------------------- Gray Image ----------------Colorized Image----------``` 
 <img src ='Test_Images/beach_original.jpg' alt="description" width = 250 > <img src ='Test_Images/beach_original_gray.png' width = 250> <img src ='Sample_Results/beach_colorized.png' width = 250>  
-
 <img src ='Test_Images/building_original.jpg' alt="description" width = 250 > <img src ='Test_Images/building_original_gray.png' width = 250> <img src ='Sample_Results/building_colorized.png' width = 250>  
 
 ## References
